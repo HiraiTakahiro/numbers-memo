@@ -4,7 +4,7 @@ export default {
   // Target: https://go.nuxtjs.dev/config-target
   target: 'static',
   router: {
-    base: '/numbers-memo/dist/'
+    base: '/numbers-memo/'
   },
 
   // Global page headers: https://go.nuxtjs.dev/config-head
